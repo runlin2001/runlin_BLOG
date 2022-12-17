@@ -2,6 +2,7 @@
 使用`shift + ctrl + P`  
 输入`Create Table of Contents`
 
+
 即可生成一个如下的代码：
 ```
 - [使用slidex来制作演示文稿](#使用slidex来制作演示文稿)
